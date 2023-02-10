@@ -31,3 +31,4 @@ This page can be used to contact the hotel by filling a simple form. It also ser
 
 # Royal-Court-Airbnb
 # Royal-Court-Airbnb
+# Royalcourt
