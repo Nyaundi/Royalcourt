@@ -30,3 +30,4 @@ This page can be used to contact the hotel by filling a simple form. It also ser
 * Spinner buttons - Handle Counter - https://github.com/nick-running/handle-counter
 
 # Royal-Court-Airbnb
+# Royal-Court-Airbnb
