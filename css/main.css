@@ -5,9 +5,9 @@
 }
 
 .tm-header{
-    background: #211f17;
+    background: #2f04f1;
     display: block;
-    padding: 20px;
+    padding: 15px;
     
 }
 
@@ -15,12 +15,12 @@
     align-content: center;
     display: block;
     margin: 0 auto;
-    width: 30%;
+    width: 20%;
 }
 
 .tm-nav{
    max-width: 90%;
-       border: 2px solid #3a382e;
+       border: 2px solid #10100f;
     display: block;
   
     margin: 30px auto 5px auto;
@@ -51,7 +51,7 @@
 }
 .tm-nav div ul li a:hover{
     
-    color: #ec3c6a;
+    color: #df0a0a;
 }
 
 .tm-list::after{
