@@ -5,14 +5,14 @@
 }
 
 .tm-header{
-    background: #e7e6eb;
+    background: #1e1f3f;
     display: block;
     padding: 15px;
     
 }
 
 .tm-logo{
-    align-content: center;
+    align-content: through;
     display: block;
     margin: 0 auto;
     width: 30%;
@@ -51,7 +51,7 @@
 }
 .tm-nav div ul li a:hover{
     
-    color: #df0a0a;
+    color: #d00e0e;
 }
 
 .tm-list::after{
@@ -120,7 +120,7 @@
 
 .tm-rooms p{
     font-size: 2.5vw;
-    color: #fff;
+    color: #ffffff;
     text-align: center;
 padding: 5%;
 
@@ -190,7 +190,7 @@ padding-bottom: 10%;
 
 
 .tm-review{
-    background: #353535;
+    background: #4a404e;
     padding-bottom: 5%;
     
 }
@@ -241,7 +241,7 @@ padding-bottom: 10%;
 /* Make reservation */
 
 .tm-res{
-    background: #cc4151;
+    background: #ef0722;
     padding: 2%;
 }
 
@@ -339,7 +339,7 @@ padding-bottom: 10%;
 /* Explore page */
 
 .tm-main{
-      background: #cc4151;
+      background: #d20909;
     padding: 2%;
 }
 
